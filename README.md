@@ -39,3 +39,4 @@ Scrapper.js
 
 Parser.js
 - O ideal seria agrupar entre um array de trasações por dia, para facilitar o consumo da API no frontend
+- Trocar request para inglês
