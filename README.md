@@ -29,7 +29,8 @@ A navegação entre iframes torna o sistema inconsistente.
 
 https://canaltech.com.br/juridico/cade-investiga-bradesco-por-dificultar-acesso-a-dados-pelo-guiabolso-138405/
 
-
+conversa com suporte guia bolso sobre bradesco:
+https://photos.app.goo.gl/mpLRTXKvq3csJ7WA6
 
 ### TODO para ter um código integrado:
 Scrapper.js
