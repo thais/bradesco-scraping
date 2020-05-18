@@ -1,4 +1,4 @@
-# H1 Scraper Bradesco (WIP)
+# Scraper Bradesco (WIP)
 
 ```javascript
 npm start
